@@ -51,32 +51,6 @@
     "url": "https://api.getbible.net/v2/aleppo.json",
     "sha": "6044d31a59450ba0507d92bfab1abf15eaf1ac2c"
   },
-  "almeida": {
-    "translation": "Almeida Atualizada",
-    "abbreviation": "almeida",
-    "description": "Bíblia Almeida Recebida (AR)",
-    "lang": "pt",
-    "language": "Portuguese",
-    "direction": "LTR",
-    "encoding": "UTF-8",
-    "distribution_lcsh": "Bible. Portuguese.",
-    "distribution_version": "1.3.1",
-    "distribution_version_date": "2012-08-13",
-    "distribution_abbreviation": "almeida",
-    "distribution_about": "A Traduçao do Texto Recebido (Textus Receptus)",
-    "distribution_license": "Creative Commons: BY-ND 4.0",
-    "distribution_sourcetype": "OSIS",
-    "distribution_source": "http://www.almeidarecebida.org/",
-    "distribution_versification": "KJV",
-    "distribution_history": {
-      "history_1.0": "Initial release, based on version 1.1, 2012-03-19 text (2012-07-10)",
-      "history_1.2": "Updated to version 1.2, 2012-08-01 text (2012-08-02)",
-      "history_1.3": "Updated to version 1.2+ε, 2012-08-03 text (2012-08-13)",
-      "history_1.3.1": "(2022-08-06) Fix typo in DistributionLicense"
-    },
-    "url": "https://api.getbible.net/v2/almeida.json",
-    "sha": "7b100492e5db9178e575f077b4145fd87afb1ca8"
-  },
   "aov": {
     "translation": "Ou Vertaling",
     "abbreviation": "aov",
